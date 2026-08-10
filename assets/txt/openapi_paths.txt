@@ -1,0 +1,23 @@
+# Probe paths for sources/active/openapi.py — where OpenAPI/Swagger specs get exposed.
+# One path per line, relative to the seed URL's origin. '#' starts a comment.
+# Only JSON specs are parsed (adding a .yaml path here will probe but not parse).
+/swagger.json
+/openapi.json
+/swagger/v1/swagger.json
+/swagger/docs/v1
+/v1/swagger.json
+/v2/swagger.json
+/v3/swagger.json
+/v1/openapi.json
+/v2/openapi.json
+/v3/openapi.json
+/v2/api-docs
+/v3/api-docs
+/api-docs
+/api/swagger.json
+/api/openapi.json
+/api/v1/swagger.json
+/api/v1/openapi.json
+/docs/swagger.json
+/openapi.yaml
+/swagger.yaml

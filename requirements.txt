@@ -1,0 +1,4 @@
+# SimpleReconURL v1 — runtime dependencies (Python 3.10+)
+# Everything else (sqlite3, asyncio, subprocess, shlex, …) is stdlib.
+httpx[socks]>=0.27.0      # async HTTP client for all sources; [socks] enables --proxy socks5://
+beautifulsoup4>=4.12.0    # HTML parsing for the default page extractor, spider, and robots_sitemap

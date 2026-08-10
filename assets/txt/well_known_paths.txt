@@ -1,0 +1,20 @@
+# Probe paths for sources/active/well_known.py — RFC 8615 metadata documents.
+# Several of these are effectively URL directories: openid-configuration lists every
+# OAuth/OIDC endpoint, and apple-app-site-association / assetlinks.json expose the
+# deep-link paths the target's mobile app talks to.
+/.well-known/security.txt
+/security.txt
+/app/.well-known/openid-configuration/
+/app/.well-known/openid-configuration/route.ts
+/.well-known/openid-configuration/route.ts
+/.well-known/openid-configuration
+/.well-known/oauth-authorization-server
+/.well-known/apple-app-site-association
+/apple-app-site-association
+/.well-known/assetlinks.json
+/.well-known/change-password
+/.well-known/nodeinfo
+/.well-known/host-meta
+/.well-known/dnt-policy.txt
+/.well-known/matrix/client
+/app/.well-known/openid-configuration/

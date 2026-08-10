@@ -1,0 +1,99 @@
+{
+    "fast": {
+        "description": "Seed page only — no extra sources beyond the default page extraction",
+        "sources": [],
+        "options": {}
+    },
+    "crawl": {
+        "description": "Deep same-origin crawl of the seed site (HTML + JS/CSS/sourcemap + Next.js routes)",
+        "sources": [
+            "spider",
+            "nextjs"
+        ],
+        "options": {}
+    },
+    "api": {
+        "description": "API surface — OpenAPI/Swagger specs, CMS REST routes and .well-known endpoints",
+        "sources": [
+            "openapi",
+            "cms_routes",
+            "well_known"
+        ],
+        "options": {}
+    },
+    "archive": {
+        "description": "Historical web archives only",
+        "sources": [
+            "wayback",
+            "commoncrawl",
+            "arquivopt"
+        ],
+        "options": {}
+    },
+    "search": {
+        "description": "Search engines — googlecse/yahoo/marginalia work keyless; bing/google are best-effort (usually blocked); publicwww needs a key",
+        "sources": [
+            "googlecse",
+            "yahoo",
+            "bing",
+            "google",
+            "marginalia",
+            "publicwww"
+        ],
+        "options": {}
+    },
+    "discovery": {
+        "description": "External URL discovery — archives, threat intel, search engines and URL databases",
+        "sources": [
+            "wayback",
+            "commoncrawl",
+            "arquivopt",
+            "urlscan",
+            "alienvault",
+            "urlhaus",
+            "virustotal",
+            "brave",
+            "googlecse",
+            "yahoo",
+            "bing",
+            "google",
+            "marginalia",
+            "publicwww"
+        ],
+        "options": {}
+    },
+    "browser": {
+        "description": "Headless browser — captures runtime network requests (needs requirements-browser.txt)",
+        "sources": [
+            "browser"
+        ],
+        "options": {}
+    },
+    "full": {
+        "description": "Everything except browser — crawl + robots/sitemap + API surface + feeds + search engines + all discovery sources",
+        "sources": [
+            "spider",
+            "robots_sitemap",
+            "nextjs",
+            "openapi",
+            "well_known",
+            "cms_routes",
+            "feeds",
+            "wayback",
+            "commoncrawl",
+            "arquivopt",
+            "urlscan",
+            "alienvault",
+            "urlhaus",
+            "virustotal",
+            "brave",
+            "googlecse",
+            "yahoo",
+            "bing",
+            "google",
+            "marginalia",
+            "publicwww"
+        ],
+        "options": {}
+    }
+}

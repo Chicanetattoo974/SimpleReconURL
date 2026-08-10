@@ -1,0 +1,8 @@
+# Optional dependency for the `browser` source (headless network capture).
+# Not required for any other part of SimpleReconURL — without it, the browser
+# source self-disables and everything else runs normally.
+#
+# Two-step install (the second command downloads the browser binary, ~150MB):
+#   pip install -r requirements-browser.txt
+#   playwright install chromium
+playwright>=1.40.0

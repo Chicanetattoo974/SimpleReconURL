@@ -1,0 +1,29 @@
+# Domains belonging to the search engines themselves, filtered out by
+# _search_common.drop_engine_chrome().
+# Scraping a result page also scoops up its navigation; without this, one Bing query
+# alone contributed 61 junk r.bing.com links to the external-URLs channel.
+# URLs inside the target's own scope are NEVER dropped, so scanning one of these
+# domains still works.
+bing.com
+microsoft.com
+msn.com
+live.com
+outlook.com
+microsoftonline.com
+office.com
+skype.com
+windows.com
+xbox.com
+google.com
+googleusercontent.com
+gstatic.com
+googleadservices.com
+googlesyndication.com
+youtube.com
+blogger.com
+yahoo.com
+yimg.com
+oath.com
+aol.com
+w3.org
+schema.org

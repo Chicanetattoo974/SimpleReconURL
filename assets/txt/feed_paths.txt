@@ -1,0 +1,17 @@
+# Conventional feed locations probed by sources/active/feeds.py, for sites that
+# serve a feed without advertising it via <link rel="alternate">.
+# Declared feeds are discovered from the seed page and do not need to be listed here.
+/rss-feed
+/feed
+/feed/
+/rss
+/rss.xml
+/feed.xml
+/atom.xml
+/index.xml
+/feed.json
+/blog/feed
+/news/feed
+/public/rss/
+/public/rss/2.0/
+/?format=rss

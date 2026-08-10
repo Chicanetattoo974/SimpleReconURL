@@ -1,0 +1,26 @@
+{
+    "_comment": "SimpleReconURL run-config preset. Copy this file, edit as needed, and pass with --config.",
+    "_note": "Keys set to null are ignored (CLI/argparse defaults apply). CLI flags always override config values.",
+
+    "output": "json",
+    "outfile": "results.json",
+
+    "profile": "discovery",
+    "sources": null,
+    "exclude": null,
+    "no_passive": false,
+
+    "threads": 20,
+    "timeout": 30,
+    "rate_limit": 3,
+
+    "verify_live": true,
+
+    "proxy": null,
+    "user_agent": "SimpleReconURL/1",
+
+    "verbose": 0,
+    "quiet": false,
+    "no_banner": false,
+    "no_color": false
+}
