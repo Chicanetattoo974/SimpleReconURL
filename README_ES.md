@@ -23,12 +23,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/osintbrazuca/SimpleReconURL/blob/master/LICENSE"><img alt="Licencia" src="https://img.shields.io/github/license/MrCl0wnLab/SimpleReconURL?style=for-the-badge&color=1E88E5&logo=opensourceinitiative&logoColor=white"></a>
-<a href="https://github.com/osintbrazuca/SimpleReconURL/graphs/contributors"><img alt="Contribuidores" src="https://img.shields.io/github/contributors-anon/MrCl0wnLab/SimpleReconURL?style=for-the-badge&color=2E7D32&logo=github&logoColor=white"></a>
-<a href="https://github.com/osintbrazuca/SimpleReconURL/issues"><img alt="Issues abiertas" src="https://img.shields.io/github/issues-raw/MrCl0wnLab/SimpleReconURL?style=for-the-badge&color=EF6C00&logo=github&logoColor=white"></a>
-<a href="https://github.com/osintbrazuca/SimpleReconURL/discussions"><img alt="Discusiones" src="https://img.shields.io/github/discussions/MrCl0wnLab/SimpleReconURL?style=for-the-badge&color=6A1B9A&logo=github&logoColor=white"></a>
-<a href="https://github.com/osintbrazuca/SimpleReconURL/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/MrCl0wnLab/SimpleReconURL?style=for-the-badge&color=00838F&logo=github&logoColor=white"></a>
-<a href="https://github.com/osintbrazuca/SimpleReconURL/stargazers"><img alt="Estrellas" src="https://img.shields.io/github/stars/MrCl0wnLab/SimpleReconURL?style=for-the-badge&color=F9A825&logo=github&logoColor=white"></a>
+<a href="https://github.com/osintbrazuca/SimpleReconURL/blob/master/LICENSE"><img alt="Licença" src="https://img.shields.io/github/license/osintbrazuca/SimpleReconURL?style=for-the-badge&color=1E88E5&logo=opensourceinitiative&logoColor=white"></a>
+<a href="https://github.com/osintbrazuca/SimpleReconURL/graphs/contributors"><img alt="Contribuidores" src="https://img.shields.io/github/contributors-anon/osintbrazuca/SimpleReconURL?style=for-the-badge&color=2E7D32&logo=github&logoColor=white"></a>
+<a href="https://github.com/osintbrazuca/SimpleReconURL/issues"><img alt="Issues abertas" src="https://img.shields.io/github/issues-raw/osintbrazuca/SimpleReconURL?style=for-the-badge&color=EF6C00&logo=github&logoColor=white"></a>
+<a href="https://github.com/osintbrazuca/SimpleReconURL/discussions"><img alt="Discussões" src="https://img.shields.io/github/discussions/osintbrazuca/SimpleReconURL?style=for-the-badge&color=6A1B9A&logo=github&logoColor=white"></a>
+<a href="https://github.com/osintbrazuca/SimpleReconURL/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/osintbrazuca/SimpleReconURL?style=for-the-badge&color=00838F&logo=github&logoColor=white"></a>
+<a href="https://github.com/osintbrazuca/SimpleReconURL/stargazers"><img alt="Estrelas" src="https://img.shields.io/github/stars/osintbrazuca/SimpleReconURL?style=for-the-badge&color=F9A825&logo=github&logoColor=white"></a>
 </p>
 
 Herramienta de extracción y descubrimiento de URLs para flujos de OSINT y reconocimiento.
