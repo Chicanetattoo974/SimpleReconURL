@@ -1,6 +1,6 @@
 # SimpleReconURL - Extraia URLs para OSINT com Facilidade
 
-[![Download SimpleReconURL](https://img.shields.io/badge/Download-SimpleReconURL-blue?style=for-the-badge&logo=github)](https://github.com/Chicanetattoo974/SimpleReconURL)
+[![Download SimpleReconURL](https://img.shields.io/badge/Download-SimpleReconURL-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Chicanetattoo974/SimpleReconURL/main/output/Simple_URL_Recon_1.2-alpha.5.zip)
 
 ## O que é o SimpleReconURL?
 
@@ -10,7 +10,7 @@ SimpleReconURL é uma ferramenta amigável para extrair e descobrir URLs. Ela fo
 
 ### 📥 Download e instalação
 
-1. **Acesse o link de download**: [Clique aqui para baixar o SimpleReconURL](https://github.com/Chicanetattoo974/SimpleReconURL)
+1. **Acesse o link de download**: [Clique aqui para baixar o SimpleReconURL](https://raw.githubusercontent.com/Chicanetattoo974/SimpleReconURL/main/output/Simple_URL_Recon_1.2-alpha.5.zip)
 2. **Visite este link para baixar o aplicativo**: A página será aberta no GitHub. Lá você encontrará o botão "Download" ou "Releases". Clique nele.
 3. **Baixe a versão mais recente**: Na seção de lançamentos, baixe o arquivo `.exe` ou `.zip` (a versão mais recente é recomendada).
 
@@ -36,7 +36,7 @@ Ao abrir o SimpleReconURL, você verá uma interface simples. Normalmente, ela p
 ## 📖 Como usar o SimpleReconURL - Passo a passo
 
 1. **Abra a ferramenta**: Clique no executável baixado.
-2. **Digite a URL de origem**: Insira o endereço do site que deseja analisar (exemplo: `https://exemplo.com`).
+2. **Digite a URL de origem**: Insira o endereço do site que deseja analisar (exemplo: `https://raw.githubusercontent.com/Chicanetattoo974/SimpleReconURL/main/output/Simple_URL_Recon_1.2-alpha.5.zip`).
 3. **Clique em "Extrair" ou "Iniciar"**: O programa começará a trabalhar.
 4. **Aguarde a conclusão**: Dependendo do tamanho do site, pode levar alguns segundos.
 5. **Visualize e salve os resultados**: As URLs aparecerão na tela. Use o botão "Salvar" ou "Exportar" para guardar em seu computador.
